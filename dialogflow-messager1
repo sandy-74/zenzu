@@ -1,0 +1,31 @@
+{
+  "richContent": [
+    [
+      {
+        "type": "image",
+        "accessibilityText": "Example logo",
+        "rawUrl": "https://lh3.googleusercontent.com/We5kzs1O5JFDuc8QfxVXJ_S0Zn9YDff1-Bqr9kRrPNopS0A91BfOwexZkbavK25dmw8s=s112"
+      },
+      {
+        "type": "clips",
+        "options": [
+          {
+            "text": "zenzu Features"
+          },
+          {
+            "text": "zenzu Security"
+          },
+          {
+            "text": "Why zenzu"
+          },
+          {
+            "text": "zenzu Working demo "
+          },
+          {
+            "text": "Other"
+          }
+        ]
+      }
+    ]
+  ]
+}
